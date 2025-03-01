@@ -1,0 +1,12 @@
+{
+  "name": "resume--pages",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "format": "prettier --ignore-unknown --write ."
+  },
+  "devDependencies": {
+    "prettier": "^3.5.2"
+  }
+}
